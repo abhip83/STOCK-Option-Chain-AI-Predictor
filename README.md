@@ -48,7 +48,10 @@ Adjust Days to Expiry (DTE) if necessary.
 View the predictions, charts, and key levels instantly.
 
 📸 Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a38ad21a-12d0-4b9b-8006-307709001141" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/33d1690c-ec42-41d0-9845-3671beab3124" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/843aa10f-82ab-49c8-8b64-4d736a5bcc18" />
+
 
 
 🔮 Future Improvements
